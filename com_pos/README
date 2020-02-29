@@ -1,0 +1,3 @@
+The data remove replace the words that appear less than 5 times with <UNKN> token.\
+It also replace answer with the position in the tweet.\
+Suitable for glove embedding.

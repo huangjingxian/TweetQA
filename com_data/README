@@ -1,0 +1,2 @@
+The data remove replace the words that appear less than 5 times with <UNKN> token.\
+Suitable for glove embedding.
